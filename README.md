@@ -1,2 +1,2 @@
-# seeker
-Recreation of Ruben Sim's script, finds pedo Roblox groups.
+# seeker | pray it does not find you
+recreation of rubens script. finds inappropriate roblox groups
